@@ -117,7 +117,7 @@ footer{
     align-items: center;
     color: rgb(22, 22, 22);
 }
-@media(max-height:600px){
+@media(max-width:320px){
     body{
         display: flex;
         flex-direction: column;
